@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/letmycrittersplaygames/static/css/main.0ca1dd8b.css",
-    "main.js": "/letmycrittersplaygames/static/js/main.9afe9b98.js",
+    "main.js": "/letmycrittersplaygames/static/js/main.cdc9649f.js",
     "static/js/512.de267b60.chunk.js": "/letmycrittersplaygames/static/js/512.de267b60.chunk.js",
     "index.html": "/letmycrittersplaygames/index.html",
     "main.0ca1dd8b.css.map": "/letmycrittersplaygames/static/css/main.0ca1dd8b.css.map",
-    "main.9afe9b98.js.map": "/letmycrittersplaygames/static/js/main.9afe9b98.js.map",
+    "main.cdc9649f.js.map": "/letmycrittersplaygames/static/js/main.cdc9649f.js.map",
     "512.de267b60.chunk.js.map": "/letmycrittersplaygames/static/js/512.de267b60.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0ca1dd8b.css",
-    "static/js/main.9afe9b98.js"
+    "static/js/main.cdc9649f.js"
   ]
 }
